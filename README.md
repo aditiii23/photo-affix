@@ -1,5 +1,5 @@
 # PhotoAffix (BETA)
-# Get it on Google Play!
+# Get it on Google Play Store!
 ### To be clear, redistributing this app as your own without any sort of credit is NOT permitted.
 
 ![Screenshots](https://raw.githubusercontent.com/afollestad/photo-affix/master/showcase.png)
